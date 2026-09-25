@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Wyzkdev/Wyzkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan, a Systems Engineering student.
 
-Here are some ideas to get you started:
+I'm currently focused on systems thinking, understanding how processes work, and learning the fundamentals of computing to optimize and model workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I'll be uploading my university projects, small practice experiments, and documenting my progress as I learn.
+
+---
+
+### Tools & Tech
+
+* C++, Visual Studio Code, Git
+* Windows & basic Command Line
+* Notion & Markdown for notes
+
+---
+
+### A Bit About Me
+
+* 🎓 Systems Engineering student
+* 🎸 Enjoy music
+* 🎮 Casual gamer
+* 💡 Interested in learning how systems work from the ground up
